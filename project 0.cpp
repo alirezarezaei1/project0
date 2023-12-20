@@ -7,7 +7,7 @@ int main(){
     int i = 0, l, j = 0, z = 0, n, uu = 0, c = 0, forc = 0, ifc = 0, xx = 0;
     string s = "";
     cin >> s;
-    int q = s.size();
+//    dghhfuyiu
     i = 0;
     while (i != q)
     {
