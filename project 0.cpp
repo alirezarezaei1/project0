@@ -24,7 +24,7 @@ int main(){
         }
         if (s[i] == 'W')
         {
-            forc--;
+            forc--;4
             if (forc < 0)
             {
                 cout << "syntax error";
