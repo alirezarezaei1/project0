@@ -9,7 +9,7 @@ int main(){
     cin >> s;
 //    dghhfuyiu
     i = 0;
-    while (i != q)
+    while (i != z)
     {
         if (s[i] == 'F')
         {
@@ -24,7 +24,7 @@ int main(){
         }
         if (s[i] == 'W')
         {
-            forc--;4
+            forc--;
             if (forc < 0)
             {
                 cout << "syntax error";
