@@ -13,6 +13,8 @@ int main(){
     fddjhjgukdi
     jdfkghf
     ddkjhd
+    hjehjfe
+    gnjkgh
     while (i != q)
     {
         if (s[i] == 'F')
