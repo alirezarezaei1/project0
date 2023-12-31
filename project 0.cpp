@@ -8,14 +8,13 @@ int main(){
     string s = "";
     cin >> s;
 //    dghhfuyiu
-    i = 0;
     eruifhdrd
     fddjhjgukdi
     jdfkghf
     ddkjhd
-    hjehjfe
     gnjkgh
-    while (i != q)
+
+    while (i != z)
     {
         if (s[i] == 'F')
         {
@@ -30,7 +29,7 @@ int main(){
         }
         if (s[i] == 'W')
         {
-            forc--;4
+            forc--;
             if (forc < 0)
             {
                 cout << "syntax error";
