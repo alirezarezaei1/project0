@@ -9,6 +9,10 @@ int main(){
     cin >> s;
 //    dghhfuyiu
     i = 0;
+    eruifhdrd
+    fddjhjgukdi
+    jdfkghf
+    ddkjhd
     while (i != q)
     {
         if (s[i] == 'F')
