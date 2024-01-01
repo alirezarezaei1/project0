@@ -1,18 +1,14 @@
 #include <iostream>
 using namespace std;
 int main(){
-    int i = 0 , x;
-    int ar[6]={1,1,2,2,2,8};
-    while(i!=6){
-        cin >> x;
-        cout<<ar[i]-x<<" ";
-        i++;
-    }    
-    return 0;
+    int n , m = 0;
+    string s1 , s2;
+    cin >> n;
+    cin >> s1 >> s2;
+    for(int i = 0 ; i < n ; i++){
+        if(s1[i] != s2[i]){
+            m++;
+        }
+    }
+    cout << m;
 }
-
-// Adel is commenting
-// uhsnslbgshgigvogihgphghweipwoihwiehoiwse
-// /kvdjvdvnjs
-// #include<mkfc>
-// hdsedgfknkdv
