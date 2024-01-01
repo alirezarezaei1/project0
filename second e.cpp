@@ -1,8 +1,5 @@
 #include <iostream>
-#include <vector>
-#include <array>
 using namespace std;
-
 int main(){
     int i = 0,x=0;
     int ar[6]={1,1,2,2,2,8};
@@ -12,3 +9,4 @@ int main(){
     }    
     return 0;
 }
+
